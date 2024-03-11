@@ -1,0 +1,3 @@
+Before activating venv Run Following command:
+
+Set-ExecutionPolicy Unrestricted -Scope Process

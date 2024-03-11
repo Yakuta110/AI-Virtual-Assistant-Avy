@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+-> commond 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
+||||||| parent of 1ed050c (Initial commit)
+-> commond 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
+=======
+-> command 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown (assistant) 
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
+#Vidisha's added actions 
+11. System shutdown
+12. Lock the System
+13. Restart the System
+14. Open Command prompt
+15. Close Command prompt
+16. Open NotePad 
+17. Close NotePad
+>>>>>>> 1ed050c (Initial commit)
